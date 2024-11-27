@@ -1,6 +1,6 @@
 # Marketing-Analytics-Case-Study
 
-Overview
+Overview:
 This project analyzes ShopEasy's marketing campaigns to address declining customer engagement, reduced conversion rates, and high marketing expenses. Using MySQL, Python, and Power BI, I identified actionable insights to optimize marketing strategies and improve overall performance.
 
 Business Problem:
