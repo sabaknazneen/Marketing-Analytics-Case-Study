@@ -14,15 +14,20 @@ The goal was to uncover key gaps in performance and recommend strategies for imp
 Tools & Technologies:
 
 MySQL: Data extraction, transformation, and loading (ETL) for structured analysis.
+
 Python: Statistical analysis and data cleaning.
+
 Power BI: Visualization of key trends and insights for business impact storytelling.
 
 
 Insights Generated:
 
 Improved Conversion Rates: Increased conversion rate from 5.0% to 10.2% by December through campaign refinement.
+
 Effective Click-Through Rates: Maintained a strong 15.37% CTR despite reduced social media engagement.
+
 Customer Satisfaction Analysis: Identified underperforming products (ratings below 3.5) for targeted enhancements, aiming to reach the 4.0 satisfaction goal.
+
 
 Conclusion:
 
